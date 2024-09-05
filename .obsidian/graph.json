@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Git",
+      "color": {
+        "a": 1,
+        "rgb": 14250239
+      }
+    },
+    {
+      "query": "Python",
+      "color": {
+        "a": 1,
+        "rgb": 16622374
+      }
+    },
+    {
+      "query": "GO",
+      "color": {
+        "a": 1,
+        "rgb": 3047167
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.494791666666667,
+  "repelStrength": 12.8125,
+  "linkStrength": 1,
+  "linkDistance": 270,
+  "scale": 0.2911422694601156,
+  "close": false
+}

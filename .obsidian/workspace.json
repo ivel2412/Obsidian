@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "bb2b67da2ab35566",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4690b27cf03f961",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0633176e09f3541d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "542d52a9ad5a63d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9468edcb25c42a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e644df7796debbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94a7e92394ddfb6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mutable",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e64833dfa38aec11",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "002f93e627056c2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e95256ee56128a2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03c42d186f8c9987",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de8996a68ade4e62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07f6f8087b0c250a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cc0a5efb11629e72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "2e644df7796debbf",
+  "lastOpenFiles": [
+    "Currying.md",
+    "Function Transformation.md",
+    "Decorators.md",
+    "Closure.md",
+    "Passed as Reference.md",
+    "Functional Programming.md",
+    "Impure functions.md",
+    "Pure function.md",
+    "Pure functions.md",
+    "Iterable.md",
+    "First class Functions.md",
+    "TO DO.md",
+    "Operator Overloading.md",
+    "Pygame error.md",
+    "Polymorphism.md",
+    "Memoization.md",
+    "Object Oriented Programming.md",
+    "Inheritance.md",
+    "Abstraction.md",
+    "Encapsulation.md",
+    "Python.md",
+    "Function.md",
+    "Remote.md",
+    "github.md",
+    "Git.md",
+    "Porcelain Commands.md",
+    "Pasted image 20240827121838.png",
+    "Pasted image 20240824182931.png",
+    "Pasted image 20240820231529.png",
+    "Excalidraw",
+    "Boot.dev/Pasted image 20240820231529.png",
+    "Boot.dev"
+  ]
+}
