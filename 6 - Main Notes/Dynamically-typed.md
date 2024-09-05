@@ -1,3 +1,7 @@
+
+tags :
+- [[Python]]
+
 In Dynamic-type languages we can assign variables to values without declaring it
 The type of Variables can be changed overtime
 Fast in implementation
@@ -11,7 +15,7 @@ Ex.
 	c=5/2 (float)
 
 Languages -
-- [[Python]]
+- [[6 - Main Notes/Python]]
 - JavaScript
 - PHP
 - Perl

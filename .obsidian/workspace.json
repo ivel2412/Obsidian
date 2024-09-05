@@ -8,11 +8,83 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0633176e09f3541d",
+            "id": "ac80872a28e65fef",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "77442cb13ec72830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Indexes/Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b541f5b6b4bdbfb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Functional Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7f4653fe57a7fd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - Indexes/Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "80b573ebcae2d621",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Pure function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd73b29be8a424b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Object Oriented Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e8b521988f269fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Main Notes/Closure.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mutable",
+                "query": "tag:#git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -140,37 +212,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e644df7796debbf",
+  "active": "ac80872a28e65fef",
   "lastOpenFiles": [
-    "Currying.md",
-    "Function Transformation.md",
-    "Decorators.md",
-    "Closure.md",
-    "Passed as Reference.md",
-    "Functional Programming.md",
-    "Impure functions.md",
-    "Pure function.md",
-    "Pure functions.md",
-    "Iterable.md",
-    "First class Functions.md",
-    "TO DO.md",
-    "Operator Overloading.md",
-    "Pygame error.md",
-    "Polymorphism.md",
-    "Memoization.md",
-    "Object Oriented Programming.md",
-    "Inheritance.md",
-    "Abstraction.md",
-    "Encapsulation.md",
-    "Python.md",
-    "Function.md",
-    "Remote.md",
-    "github.md",
-    "Git.md",
-    "Porcelain Commands.md",
-    "Pasted image 20240827121838.png",
-    "Pasted image 20240824182931.png",
-    "Pasted image 20240820231529.png",
+    "4 - Indexes/Python.md",
+    "6 - Main Notes/First class Functions.md",
+    "6 - Main Notes/Python.md",
+    "6 - Main Notes/Functional Programming.md",
+    "6 - Main Notes/Pure function.md",
+    "6 - Main Notes/Object Oriented Programming.md",
+    "6 - Main Notes/Closure.md",
+    "6 - Main Notes/[.md",
+    "6 - Main Notes/Porcelain Commands.md",
+    "6 - Main Notes/[Encapsulation].md",
+    "4 - Indexes/Golang.md",
+    "6 - Main Notes/[[Encapsulation]].md",
+    "6 - Main Notes/Constructor.md",
+    "6 - Main Notes/Methods.md",
+    "6 - Main Notes/Memoization.md",
+    "6 - Main Notes/Pure functions.md",
+    "6 - Main Notes/Plumbing Commands.md",
+    "6 - Main Notes/Pygame error.md",
+    "6 - Main Notes/Statically-typed.md",
+    "6 - Main Notes/Go.md",
+    "Excalidraw/Drawing 2024-09-05 18.25.22.excalidraw.md",
+    "4 - Indexes/Git.md",
+    "6 - Main Notes/Branch.md",
+    "6 - Main Notes/Rebase.md",
+    "6 - Main Notes/Remote.md",
+    "6 - Main Notes/Git-Basics.md",
+    "6 - Main Notes",
+    "5 - Templates",
+    "4 - Indexes",
+    "3 - Tags",
+    "2 - Source Material",
+    "1 - Rough Notes",
+    "6 - Main Notes/Pasted image 20240827121838.png",
+    "6 - Main Notes/Pasted image 20240824182931.png",
+    "6 - Main Notes/Pasted image 20240820231529.png",
     "Excalidraw",
     "Boot.dev/Pasted image 20240820231529.png",
     "Boot.dev"

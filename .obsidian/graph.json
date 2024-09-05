@@ -3,29 +3,29 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "Git",
+      "query": "section:(Python)",
       "color": {
         "a": 1,
-        "rgb": 14250239
+        "rgb": 16749112
       }
     },
     {
-      "query": "Python",
+      "query": "section:(Golang)",
       "color": {
         "a": 1,
-        "rgb": 16622374
+        "rgb": 2395903
       }
     },
     {
-      "query": "GO",
+      "query": "section:(Git)",
       "color": {
         "a": 1,
-        "rgb": 3047167
+        "rgb": 16600654
       }
     }
   ],
@@ -35,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.494791666666667,
-  "repelStrength": 12.8125,
-  "linkStrength": 1,
-  "linkDistance": 270,
-  "scale": 0.2911422694601156,
+  "centerStrength": 0.428622412562455,
+  "repelStrength": 12.1127765881513,
+  "linkStrength": 0.834047109207709,
+  "linkDistance": 194,
+  "scale": 0.3581990854774662,
   "close": false
 }

@@ -86,8 +86,3 @@ other commands are less used and also more complex
 
 ### **`Other commands`**
 
-[[Branch]]
-[[Merge]]
-[[Rebase]]
-[[Reset]]
-[[Remote]]commands

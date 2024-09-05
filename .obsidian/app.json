@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "6 - Main Notes"
 }

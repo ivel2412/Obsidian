@@ -1,3 +1,4 @@
+
 Git is Version control system
 
 **Used for**
@@ -20,24 +21,4 @@ Git can be configured at different levels ->
 - **Worktree**: `.git/config.worktree`
 ![[Pasted image 20240824182931.png]]
 
-## **[[Branch]]**
 
-- Branch are like parallel universe for your code, lets you experiment or develop new features without changing the current state
-- it is like a copy of your code but its not the same as copy
-- every branch is a pointer to a commit. check out the [[Branch]] note
-
-## **[[Merge]]**
-
-* Converting two branches together into a single commit
-
-## **[[Rebase]]**
-
-* Alternative to git merge 
-
-## **[[cat-file]]**
-- a plumbing command to read into commits
-
-## **[[Reset]]**
-* Used to undo the last commits
-
-## **[[Remote]]**

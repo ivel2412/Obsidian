@@ -12,6 +12,6 @@ ex.
 **Example**
 - C
 - C++
-- [[Go]]
+- [[Golang]]
 - Rust
 

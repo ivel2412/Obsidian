@@ -1,5 +1,9 @@
 It lets you keep track of different changed separately
 
+- Branch are like parallel universe for your code, lets you experiment or develop new features without changing the current state
+- it is like a copy of your code but its not the same as copy
+- every branch is a pointer to a commit
+
 imagine you have a big project and you want to implement a new feature or want to experiment with some changes without changing the main code base, You can create  a **branch**.
 
 its like a parallel universe for your code. where the main code is still unaffected and can be continued to be developed.

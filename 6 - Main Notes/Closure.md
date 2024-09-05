@@ -1,5 +1,5 @@
 Closer is a type of higher order function that keeps the state of a function
-similar to class and its object - [[Object Oriented Programming]]
+similar to class and its object 
 
 - **`a closure is just a function that **keeps track of some values** from the place where it was _defined_, no matter where it is executed later on.`**
 

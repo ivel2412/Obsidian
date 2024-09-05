@@ -1,5 +1,10 @@
 Also Known as Higher order function
 
+- in Python the function are values just like string or list
+* these functions ca be assigned to a variable
+* functions can be added to another function
+* Anonymous Functions have no name in python they are known as
+
 Where function are treated as a Values like a object or a variable
 
 We are gonna use [[Python]] as an Example

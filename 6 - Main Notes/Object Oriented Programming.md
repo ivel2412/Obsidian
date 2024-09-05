@@ -22,14 +22,14 @@ print(f"Health of soldier two : {soldier_two.health}")
 ```
 here `Wall` is a class and `soldier_one` and `soldier_two` are both object of `Wall` class
 
-### Methods
+### [[Methods]]
 Ex. take_damage 
 Similar to functions
 usually don't return anything because they are used to mutate the object property
 And when they do for output or input , they are called Getters and Setters
 methods always take the first parameter as their own object(self)
 
-### Constructor
+### [[Constructor]]
 A method named `__init__`
 it doesn't take any input other than `self`
 it is used to initialize `Instance Vriables`
@@ -43,7 +43,11 @@ and `self.health` is `Instance Variable`
 
 ## OOP Concepts
 
+- [[Class]]
+- [[Methods]]
+- [[Constructor]]
 * [[Encapsulation]]
 * [[Abstraction]]
 * [[Inheritance]]
 * [[Polymorphism]]
+
