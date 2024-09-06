@@ -29,3 +29,4 @@ concept of FP.
 	- [[Decorators]]
 	- [[Closure]]
 	- [[Currying]]
+	- [[Args & Kwargs]]

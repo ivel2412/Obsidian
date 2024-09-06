@@ -50,3 +50,7 @@ def process(doc):
 process_doc = vowel_counter(process)
 process_doc("Something wicked this way comes")
 ```
+
+
+### [[Cache-Decorator]]
+
