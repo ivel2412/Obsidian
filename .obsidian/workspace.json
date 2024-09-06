@@ -92,7 +92,7 @@
       {
         "id": "e95256ee56128a2b",
         "type": "tabs",
-        "dimension": 17.421602787456447,
+        "dimension": 53.22299651567944,
         "children": [
           {
             "id": "03c42d186f8c9987",
@@ -100,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6 - Main Notes/Decorators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6 - Main Notes/Decorators.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +139,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "6 - Main Notes/Decorators.md"
+              }
+            }
+          },
+          {
+            "id": "0146669214f0fe3f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "f6f27610f19ca4ec",
         "type": "tabs",
-        "dimension": 82.57839721254355,
+        "dimension": 46.77700348432056,
         "children": [
           {
             "id": "77f676299e0ea341",
@@ -170,10 +182,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc0a5efb11629e72",
+  "active": "3d5fb809c090f786",
   "lastOpenFiles": [
     "6 - Main Notes/Cache-Decorator.md",
     "6 - Main Notes/Decorators.md",
