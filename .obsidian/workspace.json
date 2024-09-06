@@ -92,6 +92,7 @@
       {
         "id": "e95256ee56128a2b",
         "type": "tabs",
+        "dimension": 17.421602787456447,
         "children": [
           {
             "id": "03c42d186f8c9987",
@@ -145,6 +146,7 @@
       {
         "id": "f6f27610f19ca4ec",
         "type": "tabs",
+        "dimension": 82.57839721254355,
         "children": [
           {
             "id": "77f676299e0ea341",
@@ -171,7 +173,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77f676299e0ea341",
+  "active": "cc0a5efb11629e72",
   "lastOpenFiles": [
     "6 - Main Notes/Cache-Decorator.md",
     "6 - Main Notes/Decorators.md",
